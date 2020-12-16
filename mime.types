@@ -1,0 +1,6 @@
+types {
+  image/jpeg jpeg jpg;
+  image/png png;
+
+  application/json json;
+}

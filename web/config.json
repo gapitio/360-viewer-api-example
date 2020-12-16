@@ -1,0 +1,9 @@
+{
+  "$schema": "./schema.json",
+  "scenes": [
+    {
+      "name": "Test",
+      "url": "/static/panorama.jpg"
+    }
+  ]
+}

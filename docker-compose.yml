@@ -1,0 +1,7 @@
+version: "2"
+services:
+  360-viewer-api-example:
+    image: vsc-360-viewer-api-example-2a80c2bacbceaed1ead9926326386ffd:latest
+    container_name: 360-viewer-api-example
+    ports:
+      - "8050:80"
